@@ -10,11 +10,21 @@ Create Virtual Environment
 ```bash
 Create a virtual environment
 ```
-
+```bash
 conda create -n cpullama python=3.8 -y
+```
+
+```bash
 conda activate cpullama
+```
+
+```bash
 pip install -r requirements.txt
+```
+
+```bash
 python app.py
+```
 
 Step 3:
 Download the quantize model from the link provided in model folder & keep the model in the model directory:
