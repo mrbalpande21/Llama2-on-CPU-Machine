@@ -8,8 +8,8 @@ please don't share false information."""
 
 
 
-#CUSTOM_SYSTEM_PROMPT="You are an advanced assistant that provides translation from English to Hindi"
-CUSTOM_SYSTEM_PROMPT="You are an advanced assistant that provides summarization given any book name"
+CUSTOM_SYSTEM_PROMPT="You are an advanced assistant that provides translation from English to french"
+# CUSTOM_SYSTEM_PROMPT="You are an advanced assistant that provides summarization given any book name"
 
 
 
@@ -23,3 +23,4 @@ Question:{question}
 Only return the helpful answer below and nothing else
 Helpful answer
 """
+
