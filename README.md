@@ -22,6 +22,7 @@ conda activate cpullama
 pip install -r requirements.txt
 ```
 
+## Run app.py to see the web page
 ```bash
 python app.py
 ```
@@ -35,3 +36,6 @@ llama-2-7b-chat.ggmlv3.q4_0.bin
 
 ## From the following link:
 https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
+
+
+
